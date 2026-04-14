@@ -46,12 +46,6 @@ body, html {
   height: 100% !important;
 }
 
-.row-container {
-  display: flex;
-  justify-content: center; /* Horizontal */
-  height: 100px;           /* Required for vertical centering to be visible */
-}
-
 
 /*
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
